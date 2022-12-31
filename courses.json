@@ -1,0 +1,36 @@
+{
+  "courses": [
+    {
+      "id": "A01",
+      "name": "SEL Introduction",
+      "default_price": "499",
+      "mentor": "vijay krishnan",
+      "short_description": "An introduction to the SEL as a concept",
+      "link": "a01_sel_intro"
+    },
+    {
+      "id": "A02",
+      "name": "Life Coaching",
+      "default_price": "599",
+      "mentor": "Arun Kumar",
+      "short_description": "Covers the concepts around life coaching and importance in real life situations",
+      "link": "a02_life_coaching"
+    },
+    {
+      "id": "A03",
+      "name": "Social Coaching",
+      "default_price": "599",
+      "mentor": "Jeevan Kumar",
+      "short_description": "Covers the concepts around social life and social interaction, behaviours and emphasis on different social differences",
+      "link": "a03_social_coaching"
+    },
+    {
+      "id": "A04",
+      "name": "Economic Coaching",
+      "default_price": "399",
+      "mentor": "Neha Oscar",
+      "short_description": "Covers the concepts economics, interacting with different economic background and self economics",
+      "link": "a04_economic_coaching"
+    }
+  ]
+}
